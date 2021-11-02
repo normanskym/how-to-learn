@@ -9,11 +9,6 @@
   font-family: 'Inter', 'Arial', sans-serif;
 }
 
-.page a:hover {
-  opacity: 0.5;
-  transition: 1s;
-}
-
 /*a, h1, h2, h3, h4, div, img, p, span, header, main, section, footer {
   border: 1px solid red;
 }*/

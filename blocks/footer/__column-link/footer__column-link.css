@@ -1,17 +1,9 @@
 .footer__column-link {
-  margin: 10px 0;
+  margin: 10px 0 0;
   display: flex;
   line-height: 18px;
   font-size: 18px;
   font-weight: 400;
   color: white;
   text-decoration: none;
-}
-
-.footer__column-link:first-of-type {
-  margin-top: 20px;
-}
-
-.footer__column-link:last-of-type {
-  margin-bottom: 16px;
 }

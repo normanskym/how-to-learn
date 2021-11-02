@@ -5,10 +5,7 @@
   text-decoration: none;
   color: white;
   list-style-type: none;
-  margin-left: 0;
-  padding-left: 0;
-}
-
-.footer__column-links:last-of-type {
-  margin-bottom: 16px;
+  padding-inline-start: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
